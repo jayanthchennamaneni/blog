@@ -1,7 +1,7 @@
-title: Your Blog Title
-description: "A short description of your blog"
+title: thoughts
+description: "my understandings of tech"
 baseurl: "/blog"
-url: "https://YOUR-USERNAME.github.io"
+url: "https://jayanthchennamaneni.github.io"
 
 theme: minima
 
